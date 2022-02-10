@@ -1,4 +1,4 @@
-# PLC_control_inverse_pendulum
+# PLC_joystick_control_inverse_pendulum
 
 Global variables:
 	Analog01 – INT (Process Variable for the joystick)
