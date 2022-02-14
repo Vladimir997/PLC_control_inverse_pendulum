@@ -9,6 +9,7 @@ gAxis01 (never used)
 gAxis02 (the axis which we use)
   
 
+
 The local variable StateP goes through 6 states.
 
 In the first state ‘INITP’ we wait for a TRUE value of the variable StartP to go to the next state.
