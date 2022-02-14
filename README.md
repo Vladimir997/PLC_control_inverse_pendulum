@@ -1,9 +1,9 @@
 # PLC_joystick_control_inverse_pendulum
 
 Global variables:
-	Analog01 – INT (Process Variable for the joystick)
-	gAxis01 (never used)
-	gAxis02 (the axis which we use)
+Analog01 – INT (Process Variable for the joystick)
+gAxis01 (never used)
+gAxis02 (the axis which we use)
   
 The local variable StateP goes through 6 states.
 
